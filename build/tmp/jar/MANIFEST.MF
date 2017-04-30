@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Title: PageLogin
+Version: 1.0
+Main-Class: kr.or.dgit.book_project.ui.PageLogin
+
